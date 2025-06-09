@@ -4,3 +4,5 @@ env:
 enable_redis: true
 enable_postgres: false
 enable_tracing: false
+tools:
+  - tools.py
