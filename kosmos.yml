@@ -1,0 +1,6 @@
+env:
+  OPENAI_API_KEY: "your-openai-api-key"
+  SERPER_API_KEY: "your-serper-api-key"
+enable_redis: true
+enable_postgres: false
+enable_tracing: false
